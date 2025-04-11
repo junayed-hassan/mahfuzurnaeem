@@ -7,12 +7,10 @@ import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineOppositeContent from '@mui/lab/TimelineOppositeContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 import FastfoodIcon from '@mui/icons-material/Fastfood';
-import LaptopMacIcon from '@mui/icons-material/LaptopMac';
-import HotelIcon from '@mui/icons-material/Hotel';
-import RepeatIcon from '@mui/icons-material/Repeat';
 import Typography from '@mui/material/Typography';
 
 function About() {
+    
     return (
         <div className="mt-28 px-28 pb-10">
             <h4 className="text-center text-[#3f51b5] text-xl font-semibold uppercase mb-2">7+ Years of Experience</h4>
